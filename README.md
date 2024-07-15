@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
