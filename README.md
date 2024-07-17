@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
