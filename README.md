@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
+| [0263-ugly-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
