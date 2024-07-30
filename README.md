@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0507-perfect-number) |
 ## Recursion
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -57,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
