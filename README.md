@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/vedatkoylahisar/leetcode-problems/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
